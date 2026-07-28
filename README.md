@@ -20,6 +20,12 @@ Pacote estático preparado para publicação no GitHub Pages.
 Documentação oficial:  
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+### Atualização de uma versão anterior
+
+Substitua o `index.html` antigo pelo arquivo deste pacote, aguarde a nova
+publicação do GitHub Pages e pressione `Ctrl + F5` no endereço do aplicativo
+para descartar a cópia antiga armazenada pelo navegador.
+
 ## Observações importantes
 
 - Não renomeie o arquivo `index.html`.
